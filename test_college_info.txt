@@ -1,0 +1,30 @@
+College Information
+
+Courses:
+- Computer Science (B.Tech)
+- Electronics Engineering (B.Tech)
+- Business Administration (MBA)
+- Data Science (M.Tech)
+
+Admission Requirements:
+- Minimum 60% in 12th grade
+- Valid entrance exam scores
+- Application deadline: June 30th
+
+Fees Structure:
+- Tuition Fee: $10,000 per year
+- Hostel Fee: $2,000 per year
+- Library Fee: $500 per year
+
+Campus Facilities:
+- Modern Computer Labs
+- Sports Complex
+- Library with 50,000+ books
+- Wi-Fi enabled campus
+- Cafeteria
+
+Events:
+- Annual Tech Fest
+- Cultural Festival
+- Industry Workshops
+- Career Fair 

@@ -1,0 +1,258 @@
+St. Vincent Pallotti College of Engineering & Technology
+(SVPCET)
+Detailed Overview
+June 10, 2025
+Contents
+1 Overview 2
+2 Programs Offered 2
+2.1 B.Tech Programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.2 M.Tech Programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.3 Ph.D. Research Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.4 B.Voc (Bachelor of Vocation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3 Admission Process 3
+3.1 First-Year B.Tech Eligibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2 Direct Second-Year B.Tech Eligibility . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.3 M.Tech Eligibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.4 Admission Process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.5 Documents Required . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.6 Fee Structure (2025-26) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.6.1 B.Tech (First Year) - Maharashtra Candidates . . . . . . . . . . . . . . . . . . . 5
+3.6.2 B.Tech (Direct Second Year) - Maharashtra Candidates . . . . . . . . . . . . . . 5
+3.6.3 M.Tech . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.7 Scholarship Schemes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4 Career Development & Placements 6
+5 Infrastructure and Facilities 6
+6 Faculty and Administration 7
+7 Student Life and Activities 7
+8 Contact Information 7
+9 Additional Highlights 8
+1
+1 Overview
+St. Vincent Pallotti College of Engineering & Technology (SVPCET) is a premier engineering institution
+established in 2004 by the Nagpur Pallottine Society. Located in Nagpur, Maharashtra, it is afﬁliated
+with Rashtrasant Tukadoji Maharaj Nagpur University and approved by the Directorate of Technical
+Education (DTE), Mumbai, and the All India Council for Technical Education (AICTE), Government
+of India.
+•Established : 2004
+•Managed by : The Nagpur Pallottine Society
+•Location : Gavsi Manapur, Wardha Road, Nagpur, Maharashtra, India, Pin: 441108
+•Accreditation : NAAC A Grade; NBA accredited for Mechanical, Electrical, Electronics & Telecom-
+munication, and Information Technology programs
+•Campus : Urban
+•Total Enrollment (2025) : 2,059 students
+•Vision : To develop a knowledge-based society with clarity of thoughts and charity at heart to
+serve humanity with integrity.
+•Mission : To empower youth to be technocrats of tomorrow with absolute discipline, a quest for
+knowledge, and strong ethos to uphold the spirit of professionalism.
+2 Programs Offered
+SVPCET offers undergraduate (B.Tech), postgraduate (M.Tech), doctoral (Ph.D.), and vocational (B.Voc)
+programs.
+2.1 B.Tech Programs
+Table 1: B.Tech Programs Offered
+Program DTE Code Intake NBA Accredited
+Computer Engineering 0417424510 120 No
+Mechanical Engineering 0417461210 60 Yes
+Electrical Engineering 0417429310 60 Yes
+Electronics &
+Telecommunication0417437210 60 Yes
+Information Technology 0417424610 60 Yes
+Civil Engineering 0417419110 60 No
+Computer Science &
+Engineering (Data Science)0417491210 60 No
+Artiﬁcial Intelligence 0417499710 60 No
+Computer Science and Business
+Systems (TCS)0417426210 60 No
+Computer Science &
+Engineering (Cyber Security)0417426010 60 No
+Industrial IoT 0417426510 60 No
+2
+2.2 M.Tech Programs
+Table 2: M.Tech Programs Offered
+Program Branch Code Sanctioned Intake Institute Level (20%) Minority (51%)
+CAP (29%)
+Computer Science &
+Engineering0417424210 12 2 6
+4
+Mechanical Engineering
+(CAD/CAM)0417460410 12 2 6
+4
+Total 24 4 12
+8
+2.3 Ph.D. Research Center
+SVPCET offers doctoral programs in various engineering disciplines under Nagpur University.
+2.4 B.Voc (Bachelor of Vocation)
+Vocational courses designed to provide industry-relevant skills.
+3 Admission Process
+SVPCET follows a structured admission process for its programs.
+3.1 First-Year B.Tech Eligibility
+1.Maharashtra State Candidates :
+•Indian National.
+•Passed HSC or equivalent with Physics and Mathematics as compulsory subjects, along
+with one of Chemistry, Biotechnology, Biology, Technical Vocational subjects, Computer
+Science, IT, Informatics Practices, Agriculture, Engineering Graphics, or Business Studies,
+with at least 45% marks (40% for Backward Class, EWS, and PWD candidates from Maha-
+rashtra).
+•Non-zero score in MHT-CET, or
+•Passed Diploma in Engineering and Technology with at least 45% marks (40% for reserved
+categories).
+2.All India and Jammu & Kashmir Migrant Candidates :
+•Same academic requirements as above.
+•Non-zero positive score in JEE Main (B.E./B.Tech) preferred over MHT-CET.
+•Diploma holders with 45% marks (40% for reserved categories) are eligible.
+3.NRI/OCI/PIO, Children of Indian Workers in Gulf Countries, Foreign Nationals :
+•Passed HSC or equivalent with at least 45% marks in speciﬁed subjects.
+•Additional criteria as per the appropriate authority.
+3
+3.2 Direct Second-Year B.Tech Eligibility
+•Indian National.
+•Passed Diploma in Engineering and Technology with at least 45% marks (40% for Backward
+Class, EWS, and PWD candidates from Maharashtra), or
+•Passed B.Sc. Degree with at least 45% marks and HSC with Mathematics, or
+•Passed D.Voc. in the same or allied sector.
+•Additional bridge courses may be required.
+3.3 M.Tech Eligibility
+•Indian National.
+•Bachelors degree in a relevant ﬁeld with at least 50% marks (45% for Backward Class, EWS, and
+PWD candidates from Maharashtra).
+•Valid GATE score preferred; non-qualiﬁed GATE candidates or sponsored candidates with two
+years of full-time work experience are eligible.
+3.4 Admission Process
+•Centralized Admission Process (CAP) : Managed through the DTE portal, requiring registration
+and document veriﬁcation.
+•Institute-Level Admissions :
+1.Fill the Admission Enquiry Google form on the college website.
+2.Visit the Admission Guidance & Counselling Cell with documents or contact telephonically
+for outstation candidates.
+•Note : Mandatory to register and obtain Application ID from the DTE portal and verify documents
+at a Facilitation Center.
+3.5 Documents Required
+•SSC and HSC mark sheets.
+•MHT-CET/JEE Main/GATE scorecards.
+•School leaving certiﬁcate/Transfer Certiﬁcate.
+•Domicile certiﬁcate (Maharashtra candidates).
+•Nationality proof (Indian Passport, Birth Certiﬁcate, or School Leaving Certiﬁcate).
+•Caste Certiﬁcate, Caste Validity, and Non-Creamy Layer (valid until March 31, 2026, if applica-
+ble).
+•Migration and Eligibility certiﬁcates for non-Maharashtra board candidates.
+•Baptism certiﬁcate or Proforma O for Christian minority students.
+4
+Table 3: B.Tech First Year Fee Structure
+Category Tuition Fee Dev. Fee Full Fee Caution Money Univ. Misc Fee Total (DD)
+Exam Fee
+OPEN 129565 19435 149000 10000 650 (MS) / 1150 (OMS) 159650 (MS) / 160150 (OMS)
+4400
+OBC/EBC (Boys) 64783 19435 84218 10000 650 (MS) / 1150 (OMS) 94868 (MS) / 95368 (OMS)
+4400
+OBC/EBC (Girls) 0 19435 19435 10000 650 (MS) / 1150 (OMS) 30085 (MS) / 30585 (OMS)
+4400
+SC/ST 0 0 0 10000 650 (MS) / 1150 (OMS) 10650 (MS) / 11150 (OMS)
+4400
+VJ/NT/SBC 0 19435 19435 10000 650 (MS) / 1150 (OMS) 30085 (MS) / 30585 (OMS)
+4400
+TFWS 0 19435 19435 10000 650 (MS) / 1150 (OMS) 30085 (MS) / 30585 (OMS)
+4400
+PMSSS 0 0 0 10000 1150 11150
+4400
+3.6 Fee Structure (2025-26)
+3.6.1 B.Tech (First Year) - Maharashtra Candidates
+Note : MS = Maharashtra State Board, OMS = Other than Maharashtra State Board. Additional charges:
+Prospectus Fee (1000, non-refundable), Uniform Fee (5700).
+3.6.2 B.Tech (Direct Second Year) - Maharashtra Candidates
+Table 4: B.Tech Direct Second Year Fee Structure
+Category Tuition Fee Dev. Fee Full Fee Caution Money DD Amount (MSBTE) DD Amount (Others)
+OPEN 117391 17609 135000 10000 145800 146300
+EBC/OBC 58696 17609 76305 10000 87105 87605
+OBC/EBC (Girls) 0 17609 17609 10000 28909 28409
+SC/ST 0 0 0 10000 10800 11300
+VJ/NT/SBC 0 17609 17609 10000 28409 28909
+3.6.3 M.Tech
+Table 5: M.Tech Fee Structure
+Year Tuition Fee Dev. Fee Univ. Misc Fee DD Amount Exam Fee
+I Year 29884 4483 600 (MS) / 1150 (OMS) 35017 (MS) / 35517 (OMS) 4400
+II Year 29884 - - - 4400
+Payment Details :
+•Demand Drafts in favor of “St. Vincent Pallotti College of Engineering & Technology”, payable
+at Nagpur.
+•Bank Details for NEFT/RTGS :
+–Bank: Federal Bank Ltd.
+5
+–A/c Number: 13390200015246
+–IFSC: FDRL0001339
+–Branch: New Ramdaspeth, Nagpur
+3.7 Scholarship Schemes
+•For SC, OBC, EBC, SBC, VJNT, ST, and state minority students.
+•National Scholarship Portal for minority students (other than Maharashtra).
+•The Nagpur Pallottine Society Scholarship Scheme.
+4 Career Development & Placements
+The Career Development Centre (CDC) facilitates placements and career growth.
+•Objective : Build industry networks, ensure sustainable employment, and become a preferred
+choice for recruiters.
+•Services :
+–Summer internships and industrial training.
+–Campus recruitment training (aptitude, interview skills, group discussions).
+–Guidance for higher studies, MPSC/UPSC exams, and foreign language training.
+–Alumni guidance sessions.
+•Training Focus : Personality development, communication skills, resume preparation, aptitude
+tests, advanced software/hardware training.
+•Placement Process : Maintains databases, organizes workshops, and coordinates with companies.
+•Achievements :
+–670+ students opted for internships.
+–100+ companies for internships.
+–4,000+ alumni across 5 continents and 53 nations.
+•Contact : Dr. Kishor Borakhade, tpo@stvincentngp.edu.in , +91 9422572353.
+5 Infrastructure and Facilities
+•Central Library : Comprehensive resources for academics and research.
+•Hostels : Separate facilities for boys (+91 9403554750) and girls (+91 9420759203) with 24/7
+security.
+•Sports : Facilities for various sports.
+•Labs : Advanced laboratories for hands-on learning.
+•R&D Cell : Supports innovation and research.
+•IEDC : Encourages startups and entrepreneurship.
+6
+•UBA Cell : Focuses on rural development.
+•NSS and Chapter Clubs : Promote extracurricular activities.
+•Anti-Ragging and Grievance Cells : Ensure a safe environment.
+•ESG : Commitment to sustainability.
+6 Faculty and Administration
+•Director : Fr. Dr. Paul Chandrankunnel
+•Principal : Dr. Surendra Gole
+•Governing Body : Includes academicians, industry experts, and social reformers.
+•Key Faculty :
+–Dean (Academics): Dr. Pramod B. Lanjewar
+–Controller of Examination: Dr. Manish M. Jachak
+–Heads of Departments for each program.
+•Hiring : Recruiting for Registrar, Assistant Professors (AI, Data Science, Cyber Security, CSBS),
+and Ofﬁce Secretary (apply by June 9-10, 2025).
+7 Student Life and Activities
+•Cultural Fest : INSIGHT2K25.
+•Tech Community : CacheClan, by CSE (Data Science) and CSBS students.
+•Guest Lectures : Recent sessions on Cyber Crime and Network Security.
+•Clubs : Phoenix, Turing Nexus, and others.
+•Alumni Achievements :
+–Gauri Vyas (Civil, 2024): MS at Northeastern University, USA.
+–Chinmay Motghare (ME, 2022): Intern at Tesla, California.
+–Shruti Nambiar (CE, 2013): MBA at Saïd Business School, Oxford.
+8 Contact Information
+•Email :info@stvincentngp.edu.in ,admission@stvincentngp.edu.in ,pallotti4174@gmail.com
+•Admission Enquiry :
+–Engineering: +91 7743979315
+–B.Voc: +91 9699833757
+•Emergency Contacts (24/7) :
+–Gate 1 Security: +91 9403739204
+–Gate 2 Security: +91 8275172409
+7
+–Boys Hostel: +91 9403554750
+–Girls Hostel: +91 9420759203
+•Website :www.stvincentngp.edu.in
+•Address : St. Vincent Pallotti College of Engineering & Technology, Gavsi Manapur, Wardha
+Road, Nagpur, Maharashtra, India, Pin: 441108
+9 Additional Highlights
+•Global Reach : Alumni in 53 nations across 5 continents.
+•Industry Collaborations : MoUs with global and national organizations.
+•Social Responsibility : Commitment to sustainability (World Environment Day).
+•Reviews :
+–Google: 4.2/5 (1,380 reviews)
+–Shiksha: 3.7/5 (135 reviews)
+–Collegedunia: 3.9/5 (73 reviews)
+–CollegeDekho: 4.5/5 (20 reviews)
+8
