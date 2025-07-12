@@ -2,6 +2,10 @@ import os
 import sys
 from src.query_processor import QueryProcessor
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -18,7 +22,12 @@ def main():
         sys.exit(1)
 
     try:
-        processor = QueryProcessor(pdf_path)
+        gemini_api_key = os.getenv("GEMINI_API_KEY")
+        if not gemini_api_key:
+            print("Error: GEMINI_API_KEY not found in environment variables. Please check your .env file.")
+            sys.exit(1)
+            
+        processor = QueryProcessor(pdf_path, gemini_api_key)
         print("\nCollege Information Chatbot")
         print("Type 'quit' or 'exit' to end the conversation\n")
 

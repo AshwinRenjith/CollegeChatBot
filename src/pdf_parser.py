@@ -81,4 +81,18 @@ class PDFParser:
             return '\n'.join(section_content) if section_content else None
         except Exception as e:
             logger.error(f"Error extracting section content: {str(e)}")
-            return None 
+            return None
+
+    def parse_relevant_sections(self, pdf_path: str, section_keywords: Dict[str, List[str]]) -> str:
+        """
+        Parse a PDF file and extract text content relevant to specific sections.
+        """
+        content = self.parse_pdf(pdf_path)
+        relevant_content = []
+
+        for section, keywords in section_keywords.items():
+            section_content = self.get_section_content(content, keywords)
+            if section_content:
+                relevant_content.append(f"Section: {section}\n{section_content}\n")
+
+        return '\n'.join(relevant_content) if relevant_content else "No relevant sections found."

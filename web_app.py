@@ -4,6 +4,10 @@ from src.query_processor import QueryProcessor
 import logging
 from datetime import datetime
 import time
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Set page config first
 st.set_page_config(
@@ -228,7 +232,11 @@ st.markdown("""
 def initialize_session_state():
     """Initialize session state variables."""
     if 'processor' not in st.session_state:
-        st.session_state.processor = QueryProcessor("data/SVPCET Details.pdf")
+        gemini_api_key = os.getenv("GEMINI_API_KEY")
+        if not gemini_api_key:
+            st.error("GEMINI_API_KEY not found in environment variables. Please check your .env file.")
+            st.stop()
+        st.session_state.processor = QueryProcessor("data/SVPCET Details.pdf", gemini_api_key)
     if 'messages' not in st.session_state:
         st.session_state.messages = []
 
@@ -276,7 +284,7 @@ def main():
     col1, col2 = st.columns([6, 1])
     
     with col1:
-        prompt = st.text_input("", placeholder="Ask a question about SVPCET...", key="chat_input")
+        prompt = st.text_input("Your Question", placeholder="Ask a question about SVPCET...", key="chat_input", label_visibility="collapsed")
     
     with col2:
         send_button = st.button("Send", use_container_width=True)
@@ -311,4 +319,4 @@ def main():
     st.markdown('</div>', unsafe_allow_html=True)
 
 if __name__ == "__main__":
-    main() 
+    main()
