@@ -18,7 +18,7 @@ class GeminiClient:
         genai.configure(api_key=gemini_api_key)
         
         # Initialize the model with default settings
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.model = genai.GenerativeModel('gemini-2.0-flash')
         
         # Initialize chat
         self.chat = None
